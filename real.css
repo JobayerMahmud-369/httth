@@ -1,5 +1,5 @@
 body{
-	background:blueviolet;
+	background:rgb(82, 28, 133);
 }
 .c1{
 	
@@ -10,34 +10,48 @@ body{
 	background:linear-gradient(white,blue);
 	text-shadow: 15px 5px 10px;
 	border-radius: 60%;
+	color:black;
 }
 .c2{
 	text-align:justify;
-	color:yellow;
 	font-size:30px;
 	border:5px solid white;
 	margin:80px;
 	text-shadow:10px 5px 10px;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	border-radius: 20px;
+	background:black;
 
-	
 }
 a:link{
 	color:yellow;
 }
 
 
-img{
-	float: none; margin:10px auto; 
-}
 
-
-history{
-	color:white;
+.history{
+	color:rgb(13, 234, 112);
 
 }	
 
-
 p{
 	text-align: center;
+	
+}
+.realme{
+	text-align:justify;
+	color:aliceblue !important;
+	border:10px dashed rgb(245, 245, 245);
+	border-radius: 100%;
+	margin: 80px;
+	font-size: 30px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	background:red;
+	text-decoration:none;
+}
+.realme p{
+	color:antiquewhite;
+}
+.c2 p{
+	color:aqua;
 }
