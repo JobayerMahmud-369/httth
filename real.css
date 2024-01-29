@@ -1,0 +1,43 @@
+body{
+	background:blueviolet;
+}
+.c1{
+	
+	text-align:center;
+	font-family:cursive;
+	margin:50px;
+	border:5px solid black;
+	background:linear-gradient(white,blue);
+	text-shadow: 15px 5px 10px;
+	border-radius: 60%;
+}
+.c2{
+	text-align:justify;
+	color:yellow;
+	font-size:30px;
+	border:5px solid white;
+	margin:80px;
+	text-shadow:10px 5px 10px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+	
+}
+a:link{
+	color:yellow;
+}
+
+
+img{
+	float: none; margin:10px auto; 
+}
+
+
+history{
+	color:white;
+
+}	
+
+
+p{
+	text-align: center;
+}
