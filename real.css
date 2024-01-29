@@ -11,6 +11,7 @@ body{
 	text-shadow: 15px 5px 10px;
 	border-radius: 60%;
 	color:black;
+	font-size: 30px;
 }
 .c2{
 	text-align:justify;
@@ -54,4 +55,8 @@ p{
 }
 .c2 p{
 	color:aqua;
+}
+.realme a{ text-decoration: none;}
+.c2 a{
+	text-decoration: none;
 }

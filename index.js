@@ -1,6 +1,6 @@
 var hi = "Hello"
 
-console.log(hi)
+console .log(hi)
 
 hi = "welcome"
 
