@@ -1,5 +1,6 @@
 body{
 	background:rgb(82, 28, 133);
+	
 }
 .c1{
 	
@@ -56,7 +57,56 @@ p{
 .c2 p{
 	color:aqua;
 }
-.realme a{ text-decoration: none;}
+.realme a{
+	 text-decoration: none;}
 .c2 a{
 	text-decoration: none;
+}
+.players{
+	text-align: center;
+	font-size:30px;
+	color:bisque;
+	font-family:fantasy;
+}
+.main-list{
+	color:darkorange;
+	text-align: center;
+	background-color: deeppink;
+}
+.main-list a {
+	color:aqua;
+	text-decoration: none;
+	font-size: 30px;
+	font-family: cursive;
+	text-align: center;
+}
+.main-list img{
+	height: 250px;
+	width:280px;
+	border-radius: 10px;
+	border:5px solid rgb(252, 251, 251)
+}
+.container{
+	background-color: deeppink;
+}
+.Coache{
+	font-size:40px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	color:gold
+	
+}
+.name a{
+	color:aqua;
+	text-decoration: none;
+}
+.name p{
+	text-align: center;
+	font-family: cursive;
+	font-size:30px ;
+}
+.name img {
+	height: 250px;
+	width:280px;
+	border-radius: 10px;
+	border:5px solid rgb(252, 251, 251)
 }
